@@ -30,11 +30,11 @@ public class ImageLabeler {
 				"  <xPosition>     is the right X coordinate of the version string,\n" +
 				"  <yPosition>     is the baseline Y coordinate of the version string,\n" +
 				"  <template.bmp>  is the pathname of the template bitmap file,\n" +
-				"  <splash.bmp>    is the pathname of the generated (annotated) splash-screen bitmap\n" +
-				"  <affiliation>   is an optional affiliation text\n" +
+				"  <splash.bmp>    is the pathname of the generated (annotated) splash-screen bitmap,\n" +
+				"  <affiliation>   is an optional affiliation text,\n" +
 				"  <xAffPosition>  is the left X coordinate of the affiliation string,\n" +
 				"  <yAffPosition>  is the baseline Y coordinate of the affiliation string,\n" +
-				"  <icon>          is an optional icon\n" +
+				"  <icon>          is an optional icon,\n" +
 				"  <xIconPosition> is the left X coordinate of the icon,\n" +
 				"  <yIconPosition> is the top Y coordinate of the icon.\n"
 			);
